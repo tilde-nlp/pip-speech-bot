@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyWsServer">keyWsServer</string>
+    <string name="keyAsrSystem">keyAsrSystem</string>
+    <string name="keyAppID">keyAppID</string>
+    <string name="keyAppSecurity">keyAppSecurity</string>
+    <string name="keyUsageCounter">keyUsageCounter</string>
+    <string name="defaultRecordingRate">16000</string>
+    <string name="keyImeAudioCues">keyImeAudioCues</string>
+
+</resources>

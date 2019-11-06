@@ -1,0 +1,11 @@
+{
+  "bot_framework_secret": "your_bot_framework_secret",
+  "asr_endpoint": "https://runa.tilde.lv/client/ws/speech",
+  "asr_system": "LVASR-ONLINE",
+  "asr_app_id": "your_app_id",
+  "asr_app_secret": "your_app_secret",
+  "tts_endpoint": "https://runa.tilde.lv//client/say/",
+  "tts_app_id": "your_app_id",
+  "tts_app_secret": "your_app_secret",
+  "tts_voice": "e2e"
+}
