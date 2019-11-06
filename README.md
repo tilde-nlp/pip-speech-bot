@@ -19,7 +19,7 @@ Obtaining the access information for automatic speech recognition (ASR) and text
 
 ## License
 
-Apache 2.
+Apache 2.0
 
 ## Acknowledgements
 
