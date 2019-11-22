@@ -1,6 +1,6 @@
-# Mobile Speech Bot
+# Mobile Speech Bot Prototype
 
-A template for a mobile speech bot, which relies on a bot implemented in Microsoft BotFramework 4. The speech part serves as a demo, which can use Tilde's speech services for speech recognition and synthesis.
+A prototype of a mobile speech bot, which relies on a bot implemented in Microsoft BotFramework 4. The speech part also serves as a demo of how it's possible to use Tilde's speech services for speech recognition and synthesis.
 
 ## Getting started
 
